@@ -4,7 +4,7 @@
 The purpose of this project is to use the deep-learning neural networks with the TensorFlow platform in Python to analyze the success of charitable donations.
 To accomplish that, we use the following methods, preprocessing the data for the neural network model, train and evaluating the model, and optimize the model.
 ## Resources
-•	Data Source:[charity_data](https://github.com/ALEIN3/Neural_Network_Charity_Analysis/blob/main/charity_data.csv)
+•	Data Source: [charity_data](https://github.com/ALEIN3/Neural_Network_Charity_Analysis/blob/main/charity_data.csv)
 
 •	Software: Python, Anaconda Navigator, Jupyter Notebook, VScode.
 
